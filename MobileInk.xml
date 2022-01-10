@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pricelist>
+  <section name="Mobile Screen">
+    <entry>
+      <item>Samsung S10</item>
+      <price>150</price>
+    </entry>
+    <entry>
+      <item>Samsung S20</item>
+      <price>250</price>
+    </entry>
+    <entry>
+      <item>Samsung S21</item>
+      <price>380</price>
+    </entry>
+    <entry>
+      <item>Samsung S21 ULTRA</item>
+      <price>400</price>
+    </entry>
+  </section>
+  <section name="Mobile Batteries">
+    <entry>
+      <item>Samsung S10</item>
+      <price>50</price>
+    </entry>
+    <entry>
+      <item>Samsung S20</item>
+      <price>75</price>
+    </entry>
+    <entry>
+      <item>Samsung S21</item>
+      <price>90</price>
+    </entry>
+     <item>Samsung S21 ULTRA</item>
+      <price>120</price>
+    </entry>
+  </section>
+  <section name="Ink Cartridges">
+    <entry>
+      <item>HP 304 Multipack</item>
+      <price>45</price>
+    </entry>
+    <entry>
+      <item>HP 305 Multipack</item>
+      <price>45</price>
+    </entry>
+    <entry>
+      <item>CANON 545/546 Multipack</item>
+      <price>42</price>
+    </entry>
+    <entry>
+      <item>CANON 540/541 Multipack</item>
+      <price>50</price>
+    </entry>
+  </section>
+  <section name="Refill">
+    <entry>
+      <item>HP 304 - BLACK</item>
+      <price>10</price>
+    </entry>
+    <entry>
+      <item>HP 304 - COLOUR</item>
+      <price>11</price>
+    </entry>
+    <entry>
+      <item>HP 305 - BLACK</item>
+      <price>10</price>
+    </entry>
+    <entry>
+      <item>HP 305 - COLOUR</item>
+      <price>11</price>
+    </entry>
+  </section>
+  </menu>

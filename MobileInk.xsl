@@ -16,6 +16,8 @@
                         <xsl:value-of select="@name" />
                     </td>
                 </tr>
+                <xsl:for-each select="entry">
+                    <tr id="{position()}">
                     <td align="center">
                             <input name="item0" type="checkbox" />
                         </td>
@@ -26,6 +28,7 @@
                             <xsl:value-of select="price" />
                         </td>
                     </tr>
+                     </xsl:for-each>
                 </xsl:for-each>
            
         </tbody>
